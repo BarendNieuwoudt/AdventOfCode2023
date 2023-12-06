@@ -14,3 +14,4 @@ for x in range(len(t)):
 		if dx > int(d[x]):
 			c += 1
 print(c)
+# 39594072
